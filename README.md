@@ -4,7 +4,7 @@
 
 
 
-# XR Final Project
+# Chicken and Fox
 <img width="1499" height="849" alt="Screenshot 2026-08-08 at 5 59 15 PM" src="https://github.com/user-attachments/assets/cc6951fb-e546-41e3-82c3-23bd4362cb05" />
 This repository is a portfolio copy of a collaborative VR game project originally developed in a private team repository.
 
